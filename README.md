@@ -1,2 +1,2 @@
 # dice-game
-A simple dice game using JavaScript
+A simple dice game done with JavaScript
